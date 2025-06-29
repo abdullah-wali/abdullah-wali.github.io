@@ -9,8 +9,8 @@
     "summary": "I am studying 5 A Levels at Cadet College Hasan Abdal and President of the Makerspace Club. I expect to pursue a career in Electrical Engineering and explore my interests in Nanotechnology, Microelectronics, Optical & Quantum Computing, and Cars (& Cats!)",
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "Pakistan", "region": "" },
     "profiles": [
-      { "network": "github", "username": "abdullah-wali", "url": "https://github.com/abdullah-wali" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/abdullah-wali/" },
+      { "network": "github", "username": "GitHub", "url": "https://github.com/abdullah-wali" },
+      { "network": "linkedin", "username": "LinkedIn", "url": "https://www.linkedin.com/in/abdullah-wali/" },
     ]
   },
   "interests": [
