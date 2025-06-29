@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Muhammad Abdullah Wali",
+    "label": "A Level Student",
+    "picture": "https://avatars.githubusercontent.com/u/174507675?s=400&u=4cf5cbe0e76e6607193bfc5cd4f8f44d985d0aeb&v=4",
+    "email": "muhamadabdullahwali@gmail.com",
+    "phone": "",
+    "website": "https://abdullah-wali.github.io",
+    "summary": "I am studying 5 A Levels at Cadet College Hasan Abdal and President of the Makerspace Club. I expect to pursue a career in Electrical Engineering and explore my interests in Nanotechnology, Microelectronics, Optical & Quantum Computing, and Cars (& Cats!)",
+    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "Pakistan", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "abdullah-wali", "url": "https://github.com/abdullah-wali" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/abdullah-wali/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Nanotechnology" },
+    { "name": "Microelectronics" },
+    { "name": "Optical and Quantum Computing" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Autonomous Cars" }
   ],
   "skills": [
     {
