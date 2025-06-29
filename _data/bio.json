@@ -6,7 +6,7 @@
     "email": "muhamadabdullahwali@gmail.com",
     "phone": "",
     "website": "https://abdullah-wali.github.io",
-    "summary": "I am studying 5 A Levels at Cadet College Hasan Abdal and President of the Makerspace Club. I expect to pursue a career in Electrical Engineering and explore my interests in Nanotechnology, Microelectronics, Optical & Quantum Computing, and Cars (& Cats!)",
+    "summary": "I am studying 5 A Levels at Cadet College Hasan Abdal and President of the Makerspace Club. I expect to pursue a career in Electrical Engineering and explore my interests in Nanotech, Microelectronics, Optical & Quantum Computing, and Cars (Cats too!)",
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "Pakistan", "region": "" },
     "profiles": [
       { "network": "github", "username": "GitHub", "url": "https://github.com/abdullah-wali" },
@@ -18,7 +18,7 @@
     { "name": "Microelectronics" },
     { "name": "Optical and Quantum Computing" },
     { "name": "Robotics" },
-    { "name": "Autonomous Cars" }
+    { "name": "Autonomous Vehicles" }
   ],
   "skills": [
     {
