@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "Pakistan", "region": "" },
     "profiles": [
       { "network": "github", "username": "GitHub", "url": "https://github.com/abdullah-wali" },
-      { "network": "linkedin", "username": "LinkedIn", "url": "https://www.linkedin.com/in/abdullah-wali/" },
+      { "network": "linkedin", "username": "LinkedIn", "url": "https://www.linkedin.com/in/abdullah-wali/" }
     ]
   },
   "interests": [
