@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Sign Language Glove"
+date: 2024
 published: true
 labels:
   - Lisp
@@ -13,7 +13,7 @@ summary: "A text adventure game that I developed for ICS 313."
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This wearable glove translates sign language gestures into spoken English in real-time, enabling deaf and speech-impaired users to communicate verbally without human interpreters. It overcomes the critical barrier of interpreter dependency, especially in emergency situations or hospitals.
 
 To give you a flavor of the game, here is an excerpt from one run:
 
