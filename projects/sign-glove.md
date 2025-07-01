@@ -6,8 +6,8 @@ title: "Sign Language Glove"
 date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Arduino
+  - Robotics
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
@@ -26,6 +26,12 @@ Communication with people who don't understand sign language would require trans
 <hr>
 
 ## The Solution
+
+My project aims to address this issue through an affordable Arduino Nano-based wearable glove device. The user simply gestures hand signs, which the microcontroller translates in real-time into English or pre-programmed prompts. The output messages are delivered visually on a screen, like a 16x2 LCD or your smartphone, and orally via a connected smartphone or any other compatible device, eliminating the necessity of a translator and enabling easy, cost-effective and seamless communication with the general population.
+
+### Hardware
+
+
 
 <hr>
 
