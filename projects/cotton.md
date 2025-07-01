@@ -15,7 +15,9 @@ summary: "A text adventure game that I developed for ICS 313."
 
 This wearable glove translates sign language gestures into spoken English in real-time, enabling deaf and speech-impaired users to communicate verbally without human interpreters. It overcomes the critical barrier of interpreter dependency, especially in emergency situations or hospitals.
 
-To give you a flavor of the game, here is an excerpt from one run:
+## The Problem
+
+## The Solution
 
 <hr>
 
