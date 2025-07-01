@@ -19,6 +19,10 @@ This wearable glove translates sign language gestures into spoken English in rea
 
 ## The Problem
 
+Speech and hearing impaired people have enjoyed the advent of standardized sign languages for communicating with each other. However, the main downside of this mode of communication is their inability to communicate with non-communicators of sign language, which is predominantly the population at large. World Federation of Deaf claims only 70 million people know sign languages (which is quite small, proportionally, when compared to the 8 billion of our Globe!)
+
+Communication with people who don't understand sign language would require translators (a person who is capable of translating sign language into voice and vice versa), presenting a significant challenge as translators are not available all the time, especially during an emergency situation or in hospitals, and can be quite costly.
+
 <hr>
 
 ## The Solution
