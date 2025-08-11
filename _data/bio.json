@@ -45,15 +45,15 @@
       "studyType": "A Levels",
       "startDate": "2024-06-13",
       "endDate": "Present",
-      "courses": [ "Maths", "Physics", "Chemistry", "Computer Science", "GP & Independent Research" ]
+      "courses": [ "Maths, Physics, Chemistry, Computer Science, GP & Independent Research" ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Wali IT Skills Academy",
+      "position": "Co-founder",
+      "website": "https://waliitskills.com/",
+      "startDate": "2025-03-21",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
