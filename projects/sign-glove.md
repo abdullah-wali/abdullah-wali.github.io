@@ -8,7 +8,7 @@ published: true
 labels:
   - Arduino
   - Robotics
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A wearable glove that can easily translate sign language and gestures."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
