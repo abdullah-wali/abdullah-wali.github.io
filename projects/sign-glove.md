@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/signglove/signglovesimulation.gif
 title: "Sign Language Glove"
 date: 2024
 published: true
