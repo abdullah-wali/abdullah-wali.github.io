@@ -6,7 +6,7 @@
     "email": "muhamadabdullahwali@gmail.com",
     "phone": "",
     "website": "https://abdullah-wali.github.io",
-    "summary": "I am studying 5 A Levels at Cadet College Hasan Abdal and President of the Makerspace Club. I expect to pursue a career in Electrical Engineering and explore my interests in Nanotech, Microelectronics, Optical & Quantum Computing, and Cars (Cats too!)",
+    "summary": "I am studying 5 A Levels at Cadet College Hasan Abdal and President of the Makerspace Club. I expect to pursue a career in Electrical Engineering and explore my interests in Robotics, Microelectronics, Healthcare, and Cars (Cats too!)",
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "Pakistan", "region": "" },
     "profiles": [
       { "network": "github", "username": "GitHub", "url": "https://github.com/abdullah-wali" },
@@ -14,31 +14,38 @@
     ]
   },
   "interests": [
-    { "name": "Nanotechnology" },
-    { "name": "Microelectronics" },
-    { "name": "Optical and Quantum Computing" },
     { "name": "Robotics" },
+    { "name": "Microelectronics" },
+    { "name": "Nanotechnology" },
+    { "name": "Healthcare" },
     { "name": "Autonomous Vehicles" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C++", "Python", "Arduino IDE", "TensorFlow", "HTML" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Toolsets/CAD/EDA",
+      "keywords": [ "KiCAD", "TinkerCAD", "Git/GitHub", "Blender", "Flashforge", "Arduino" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Cadet College Hasan Abdal, Punjab, PK",
+      "area": "STEM & Humanities",
+      "studyType": "O Levels",
+      "startDate": "2021-04-01",
+      "endDate": "2024-06-13",
+      "courses": [ "Maths", "Physics", "Chemistry", "Biology", "English", "Urdu", "Pak Studies", "Islamiyat" ]
+    },
+    {
+      "institution": "Cadet College Hasan Abdal, Punjab, PK",
+      "area": "STEM & Research",
+      "studyType": "A Levels",
+      "startDate": "2024-06-13",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ "Maths", "Physics", "Chemistry", "Computer Science", "GP & Independent Research" ]
     }
   ],
   "work": [
