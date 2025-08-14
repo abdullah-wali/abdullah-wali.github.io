@@ -33,14 +33,15 @@ My project aims to be as accessible and affordable as possible. My pair of glove
 
 One with pre-programmed gesture messages (like "I want to go to washroom," or "My name is [abc]") which is particularly helpful for patients in conditions where they cannot talk or listen but do not have the time and resources to learn a sign language. By removing the need for a sign language, this Arduino IDE (C++ based) program is suitable for providing all the essential information, including emergencies, and maintaining a decent level of communication with others. Users can easily change the pre-programmed messages as they want and require.
 
-Another one is the one with real-time sign language translation, though it is a bit limited due to the lack of a gyrometer in my project (with small budgets come great obstacles!). Nonetheless, it is a good way to communicate without a costly interpreter as well as to learn or teach sign languages.
+The other one is the one with real-time sign language translation, though it is a bit limited due to the lack of a gyrometer in my project (with small budgets come great obstacles!). Nonetheless, it is a good way to communicate without a costly interpreter as well as to learn or teach sign languages.
 
 #### Hardware
 
 '''
 - Arduino Nano
 - Flex Sensors (5x per hand)
-  - 
+  - (Or conversely you can...) Self-manufacture Flex Sensors
+    - dada
 '''
 
 <hr>
