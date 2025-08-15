@@ -35,6 +35,12 @@ One with pre-programmed gesture messages (like "I want to go to washroom," or "M
 
 The other one is the one with real-time sign language translation, though it is a bit limited due to the lack of a gyrometer in my project (with small budgets come great obstacles!). Nonetheless, it is a good way to communicate without a costly interpreter as well as to learn or teach sign languages.
 
+I wanted my project to be accessible and affordable for all people, so I challenged myself with a Rs 10,000 budget (~$35). I carefully planned my components and sensors: Arduino Nano, 16x2 LCD, a pair of gloves, and I found the breadboard, solder, wires and resistors from my club. However, buying flex sensor instantly threw me off budget--Rs 4,500 each, while I needed at least 5!
+
+So I decided to turn to my reverse engineering and tinkering abilities. Following research papers, tutorials and physics books, I tested many different materials to make my own flex sensor. In the end, a thin paper covered thickly with graphite on both ends sandwiched between two aluminum foils worked the best. I covered my very own sensor with cardboard paper to avoid any current leakage and very carefully soldered the ends with wires. Making these sensors costed me a few hundred rupees.
+
+With exhibition approaching, I had no choice but to stay over at the makerspace late into the nights, getting late from lights out at my hostel (and getting punished for being so late). At last, I was able to keep my gloves affordable, while also maintaining its functionality--it was worth it.
+
 #### Hardware
 
 '''
