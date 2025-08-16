@@ -10,7 +10,7 @@ labels:
   - AI SMS Chatbot
   - Interactive Map
   - Web Development
-summary: "Pakistan's first local freelancing platform providing access to stable sources of income to individuals, even in the most remote villages and without internet access. Mazdur's AI SMS Chatbot and Interactive Map for searching freelancers in your vicinity enable everyone to monetize their skills, no matter how niche or digital or in-person."
+summary: "Pakistan's first local freelancing platform providing stable sources of income to individuals, even in the most remote villages and with no internet. Mazdur's AI SMS Chatbot and Interactive Map for searching freelancers in your vicinity enable everyone to monetize their skills, no matter how niche, digital or in-person."
 ---
 
 <!-- <img class="img-fluid" src="../img/cotton/cotton-header.png"> -->
