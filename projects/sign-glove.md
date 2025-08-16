@@ -7,8 +7,9 @@ date: 2024
 published: true
 labels:
   - Arduino
-  - Robotics
-summary: "A wearable glove that can easily translate sign language and gestures."
+  - Soft Robotics
+  - Control Engineering
+summary: "A wearable glove that can easily translate sign language and gestures -- at a fraction of the cost."
 ---
 
 <!-- <img class="img-fluid" src="../img/cotton/cotton-header.png"> -->
