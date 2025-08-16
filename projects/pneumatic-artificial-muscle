@@ -1,0 +1,36 @@
+---
+layout: project
+type: project
+image: img/signglove/signglovesimulation.gif
+title: "Pneumatic Artifical Muscle"
+date: 2024
+published: true
+labels:
+  - Bionics
+  - Rescue Robotics
+  - Engineering Design
+summary: "I designed and studied Pneumatic Artificial Muscles with applications in Prosthetics, Exoskeletons, and Search & Rescue Operations."
+---
+
+<!-- <img class="img-fluid" src="../img/cotton/cotton-header.png"> -->
+
+Pneumatic Artifical Muscles are soft, flexible and extensible. These contractile/extensile devices are very useful in making bionic devices for limb control or replacement, exoskeletons for humanoid robots, and, as amazingly, in search & rescue operations. With high pressurisation, infolded variants of these PAMs can extend hundredfolds, traverse rugged (and sharp) terrain, and lift heavy objects with little air pressure (in areas the tubing and mesh are wider giving them a larger surface area and p = F/A).
+
+<hr>
+
+## The Problem
+
+
+
+<hr>
+
+## The Solution
+
+
+
+<hr>
+<hr>
+
+## References
+
+Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
