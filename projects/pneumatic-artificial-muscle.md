@@ -33,6 +33,6 @@ Pneumatic Artifical Muscles are soft, flexible and extensible. These contractile
 
 ## References
 
-<a href="https://ieeexplore.ieee.org/document/7989648"><i class="large github icon "></i>Series pneumatic artificial muscles (sPAMs) and application to a soft continuum robot</a>
-<a href="https://www.vinerobots.org/"><i class="large github icon "></i>Stanford researchers develop vine-like, growing robot</a>
+<a href="https://ieeexplore.ieee.org/document/7989648"><i class="large github icon "></i>Series pneumatic artificial muscles (sPAMs) and application to a soft continuum robot</a><br>
+<a href="https://www.vinerobots.org/"><i class="large github icon "></i>Stanford researchers develop vine-like, growing robot</a><br>
 <a href="https://web.stanford.edu/class/me23n/labs/soro_lab3.pdf"><i class="large github icon "></i>Lab 3: Pneumatic Artificial Muscles (ME23N - Soft Robotics for Humanity, Stanford University)</a>
