@@ -32,15 +32,15 @@ At Mazdur Organization, we provide the opportunity for talent to shine, no matte
 ### Beneficiaries
 
 The primary beneficiaries of Mazdur are the millions of unemployed and underemployed individuals in Pakistan, and worldwide, particularly those from rural areas with limited access to technology. They are:
- 1) Sellers: Skilled individuals seeking freelance and/or employment opportunities, offering digital and/or in-person services (e.g. carpentry, traditional crafts, digital marketing).
- 2) Buyers: Users wanting to find sellers for particular services near them, or remotely.
- 3) Employers: Businesses or employers seeking to hire talent (sellers) who are conversely unable to navigate existing digital or traditional job hiring processes. 
+ 1. Sellers: Skilled individuals seeking freelance and/or employment opportunities, offering digital and/or in-person services (e.g. carpentry, traditional crafts, digital marketing).
+ 2. Buyers: Users wanting to find sellers for particular services near them, or remotely.
+ 3. Employers: Businesses or employers seeking to hire talent (sellers) who are conversely unable to navigate existing digital or traditional job hiring processes. 
 
 ### Unique Value Proposition
 
-1) Inclusive Service Selling: Sellers can utilize their location-based data to set up working vicinities in which they can offer their in-person skills. Gigs range from digital tasks to in-person work, creating a versatile platform for both remote and local freelancing.
-2) SMS Accessibility: Recognizing the high cellular connectivity in Pakistan (~78% of the population), we are developing an AI SMS chatbot for users without internet access. Sellers post their details on SMS, which will be uploaded to our website for buyers and employers to view. Conversely, they are notified of job opportunities through an SMS newsletter. The SMS Chatbot builds on Vonage SMS APIs and Chatbot Builder. Moreoover, I have undertaken internships where I built AI-powered financial chatbot with Python.
-3) Efficient Talent Hiring: By simplifying the job search and hiring process for both employers and employees, we reduce the time and cost associated with traditional methods.
+1. Inclusive Service Selling: Sellers can utilize their location-based data to set up working vicinities in which they can offer their in-person skills. Gigs range from digital tasks to in-person work, creating a versatile platform for both remote and local freelancing.
+2. SMS Accessibility: Recognizing the high cellular connectivity in Pakistan (~78% of the population), we are developing an AI SMS chatbot for users without internet access. Sellers post their details on SMS, which will be uploaded to our website for buyers and employers to view. Conversely, they are notified of job opportunities through an SMS newsletter. The SMS Chatbot builds on Vonage SMS APIs and Chatbot Builder. Moreoover, I have undertaken internships where I built AI-powered financial chatbot with Python.
+3. Efficient Talent Hiring: By simplifying the job search and hiring process for both employers and employees, we reduce the time and cost associated with traditional methods.
 
 <hr>
 
