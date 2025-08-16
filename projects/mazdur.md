@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/signglove/signglovesimulation.gif
+image: img/mazdur/Logo round.png
 title: "Mazdur Organization"
 date: 2024
 published: true
