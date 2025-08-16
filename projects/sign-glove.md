@@ -11,7 +11,7 @@ labels:
 summary: "A wearable glove that can easily translate sign language and gestures."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<!-- <img class="img-fluid" src="../img/cotton/cotton-header.png"> -->
 
 This wearable glove translates sign language gestures into spoken English in real-time, enabling deaf and speech-impaired users to communicate verbally without human interpreters. It overcomes the critical barrier of interpreter dependency, especially in emergency situations or hospitals.
 
