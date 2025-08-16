@@ -44,12 +44,10 @@ With exhibition approaching, I had no choice but to stay over at the makerspace 
 
 #### Hardware
 
-'''
 - Arduino Nano
 - Flex Sensors (5x per hand)
   - (Or conversely you can...) Self-manufacture Flex Sensors
     - dada
-'''
 
 <hr>
 
